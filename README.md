@@ -1,5 +1,5 @@
 # 💫 About Me:
-☕ I'm a graphic designer and frontend developer,<br> I'm currently working as a junior frontend web designer<br> developing web pages in HTML, CSS, JavaScript and React.<br><br>🎓 I have my own projects such as the creation and<br> development of a Minecraft server with a flow of 200<br> people per day.<br><br>🌟 I have knowledge in GIT and GitHub, React, HTML, CSS,<br> JavaScript and VBA, SASS preprocessor and great level in<br> the Adobe package, MySql, Webpack, APIRest...
+☕I'm a frontend developer with 3 years of experience crafting solutions for various companies through web design and development. I studied advertising graphic design, and I enjoy creating web pages with a strong emphasis on integrating design seamlessly.
 
 
 ## 🌐 Socials:
