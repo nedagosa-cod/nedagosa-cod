@@ -1,6 +1,11 @@
-# 💫 About Me:
-💼 I'm currently working on Atento as a frontend developer<br>creating solutions for different companies.<br>🏜️ I studied advertising graphic design, and I enjoy developing <br>visually striking websites.<br>🧠 I'm currently learning Next.js and practicing integrating backend <br>into my frontend projects.<br>
+# Hi, I'm Nestor Gomez 👋
+### Senior Frontend Developer | Tech Lead | Fullstack Builder
 
+I am a product-driven engineer with over 5+ years of experience building scalable web ecosystems. Currently leading a team of 7 developers at Atento, focusing on transforming complex business requirements into high-performance digital solutions.
+
+- 🔭 **Current Focus:** Scaling internal training ecosystems and immersive 3D simulators.
+- 🎮 **Side Quests:** Building full-stack e-commerce integrations for high-traffic gaming servers (Minecraft/Hytale).
+- ⚡ **Superpowers:** React, Next.js, TypeScript, and bridging the gap between UI/UX and Engineering.arning Next.js and practicing integrating backend <br>into my frontend projects.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/néstor-gómez-sanabria-385b8b211) 
